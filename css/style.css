@@ -1,0 +1,130 @@
+h1 { text-align: center;
+     font-family:'Permanent Marker', cursive;
+     padding-top: 3%;
+     font-size: 50px !important
+      }
+
+p {text-align: center;
+   }
+
+section {margin: auto;
+         font-family: 'Arvo', serif;
+       }
+
+header {outline: none;}
+
+body {background-color: rgb(160, 209, 202) !important}
+
+.container-fluid {background-color: rgb(0, 176, 139);
+                  padding: 15px;
+                  font-family: 'Domine', serif !important
+                }
+
+#sfondo {width:800px; 
+         height:200px;
+         padding-left: 15%;}
+
+#card {padding-left: 20%;
+       padding-right: 20%;
+       padding-bottom: 7%;}
+
+#mese {padding-top: 3%;
+       font-family: 'Permanent Marker', cursive;
+       text-align: center;}
+
+.card-text {font-family: 'Arvo', serif;
+}
+
+.card-title {font-family: 'Domine', serif;}
+
+.topnav {float: right;
+         padding-right: 3%;}
+
+#creaprofilo {float: right;
+              margin-right: 3%;
+              margin-bottom: 0.5%;
+              color: black;
+              background-color: rgb(160, 209, 202);
+              }
+#creapost {margin-bottom: 0.5%;
+           margin-right: 2%;
+           color: black;
+           background-color: rgb(160, 209, 202);}
+
+#numerini {padding-left: 43% ;
+           padding-top: 2%;}
+
+ #postforum {padding-left: 15%;
+       padding-right: 15%;}
+
+form {padding-left: 15%;
+      padding-right: 15%;
+      padding-top: 5%;
+      font-family: 'Arvo', serif;}
+
+#iscriviti, #pubblica {color: black;
+            background-color: rgb(0, 176, 139);}
+
+legend {margin-top: 1px;}
+
+h2 {text-align: center;
+    padding-top: 3%;}
+
+#esempio {text-align: center;
+           padding-left: 5%;
+           padding-right: 5%;
+           }
+
+#contatta {margin-left: 47%;
+           margin-top: 3%;
+           color: black;
+           background-color: rgb(160, 209, 202);}
+#concerti {margin-left: 40%;
+           margin-top: 3%;
+           color: black;
+           background-color: rgb(160, 209, 202);}
+#errore {color: black;
+         background-color: rgb(160, 209, 202);
+         margin-left: 45%;
+         margin-top: 5%;}
+
+h4 {text-align: center;
+    font-family: 'Arvo', serif;
+    padding-top: 2%;
+    padding-bottom: 2%;}
+h3 {text-align: center;
+    padding-top: 2%;
+    padding-bottom: 2%;}
+#schemadocumentazione {width: 1100 px;
+                       height: 450px;}
+#documentazione1 {max-width: 1100px;
+                 max-height: 450px;
+                 padding-left: 32%;}
+#documentazione2 {max-width: 1100px;
+                 max-height: 450px;
+                 padding-left: 20%;}
+#documentazione3 {max-width: 1200px;
+                 max-height: 650px;
+                 padding-left: 10%;}
+#documentazione4 {max-width: 1200px;
+                 max-height: 650px;
+                 padding-left: 10%;}
+#documentazione5 {max-width: 1100px;
+                 max-height: 350px;
+                 padding-left: 32%;}
+#documentazione6 {max-width: 1100px;
+                 max-height: 450px;
+                 padding-left: 32%;}
+#testodocumentazione {text-align: center;}
+#listastrumenti {margin-left: 35%;
+    font-family: 'Arvo', serif;}
+#aboutus {font-family: 'Arvo', serif;}
+
+
+font-family: 'Arvo', serif;
+font-family: 'Domine', serif;
+font-family: 'Fjalla One', sans-serif;
+font-family: 'Permanent Marker', cursive;
+font-family: 'Playfair Display', serif;
+font-family: 'Secular One', sans-serif;
+font-family: 'Vollkorn SC', serif;
