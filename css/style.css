@@ -116,9 +116,19 @@ h3 {text-align: center;
                  max-height: 450px;
                  padding-left: 32%;}
 #testodocumentazione {text-align: center;}
+
 #listastrumenti {margin-left: 35%;
     font-family: 'Arvo', serif;}
+
 #aboutus {font-family: 'Arvo', serif;}
+
+#analyticsuno {max-width: 1200px;
+               max-height: 650px;
+               padding-left: 4%;
+               padding-bottom: 3%;}
+
+#analyticsdue {padding-left: 25%;
+               padding-top: 3%;}
 
 
 font-family: 'Arvo', serif;
